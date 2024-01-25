@@ -1,0 +1,35 @@
+.todo-container {
+     margin: 0 auto;
+     width: 800px;
+     display: flex
+}
+
+.todo-container-div {
+     margin: 0 auto;
+     width: 300px
+}
+
+.todo-container-div-formInput {
+     margin: 0 auto;
+     width: 220px;
+     display: flex
+}
+.todo-list{
+     list-style: none
+}
+.todo-task{
+     border: none;
+     text-decoration: none;
+     background: none,
+}
+.done-task{
+     border: none;
+     text-decoration: line-through;
+     background: none,
+}
+
+.task-active{
+     border: 1px solid;
+     text-decoration: none;
+     background: none,
+}

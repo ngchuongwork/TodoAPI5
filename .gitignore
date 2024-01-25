@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/TodoListAPI/fe-app-todo/node_modules
+/TodoListAPI/fe-app-todo/.pnp
+/TodoListAPI/fe-app-todo/.pnp.js
+
+# testing
+/TodoListAPI/fe-app-todo/coverage
+
+# production
+/TodoListAPI/fe-app-todo/build
+
+# misc
+/TodoListAPI/fe-app-todo/.DS_Store
+/TodoListAPI/fe-app-todo/.env.local
+/TodoListAPI/fe-app-todo/.env.development.local
+/TodoListAPI/fe-app-todo/.env.test.local
+/TodoListAPI/fe-app-todo/.env.production.local
+
+/TodoListAPI/fe-app-todo/npm-debug.log*
+/TodoListAPI/fe-app-todo/yarn-debug.log*
+/TodoListAPI/fe-app-todo/yarn-error.log*
