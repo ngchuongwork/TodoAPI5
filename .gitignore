@@ -10,6 +10,8 @@
 
 # production
 /TodoListAPI/fe-app-todo/build
+/TodoListAPI/bin
+/TodoListAPI/obj
 
 # misc
 /TodoListAPI/fe-app-todo/.DS_Store
