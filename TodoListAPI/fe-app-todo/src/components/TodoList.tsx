@@ -17,6 +17,7 @@ function TodoList() {
                 const response = await GET_ALL_TODOs('TodoList');
                 const newTask: TaskProps[] = response.data;
                 setTasks([...newTask]);
+                console.log(1123)
             } catch (error) {
                 console.error('Error fetching todos:', error);
             }
