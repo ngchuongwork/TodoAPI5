@@ -1,4 +1,5 @@
-﻿using TodoListAPI.Models;
+﻿using TodoListAPI.Entities;
+using TodoListAPI.Models;
 
 namespace TodoListAPI.Implements
 {

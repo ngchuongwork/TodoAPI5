@@ -1001,11 +1001,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Desktop\\c#\\TodoListAPI2\\TodoListAPI\\TodoListAPI.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Desktop\\New folder\\TodoAPI5\\TodoListAPI\\TodoListAPI.csproj",
       "projectName": "TodoListAPI",
-      "projectPath": "C:\\Users\\admin\\Desktop\\c#\\TodoListAPI2\\TodoListAPI\\TodoListAPI.csproj",
+      "projectPath": "C:\\Users\\admin\\Desktop\\New folder\\TodoAPI5\\TodoListAPI\\TodoListAPI.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Desktop\\c#\\TodoListAPI2\\TodoListAPI\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Desktop\\New folder\\TodoAPI5\\TodoListAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
